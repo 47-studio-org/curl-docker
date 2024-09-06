@@ -1,3 +1,10 @@
+***IMPORTANT*** - https://github.com/curl/curl-container supersedes this archived repository
+
+
+
+
+
+
 # Curl Docker Images repository
 
 This repository defines the official curl docker image.
